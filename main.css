@@ -1,0 +1,25 @@
+
+
+/* Inserta tu CSS aqui */
+div{
+	height: 100px;
+	width:  100px;
+    background-color: pink;
+    border:solid 1px;
+    margin-bottom: 10px;
+   }
+
+ .dos{
+ 	height: 130px;
+	width:  400px;
+	padding:1px;
+ }
+ .tres{
+ 	margin-top: 15px;
+ 	margin-left: 20px;
+ }
+
+.inline{
+display: inline-block;
+}
+
